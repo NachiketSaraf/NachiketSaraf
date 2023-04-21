@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?w=1380&t=st=1680214172~exp=1680214772~hmac=ca206ee1062186514fd4e647a2c1030b86fa0024469418323ca74d0f38d1d5c4)
+![MasterHead](https://github.com/NachiketSaraf/NachiketSaraf/blob/760e0a51f0c7b74f473746996ba7076942420d69/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.mp4)
 <h1 align="center">Hi 👋, I'm Nachiket Saraf</h1>
 <h3 align="center">A backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
