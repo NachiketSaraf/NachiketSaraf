@@ -24,10 +24,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nachiketsaraf&show_icons=true&locale=en&layout=compact" alt="nachiketsaraf" /></p>
 
-<li>
 #### My Github Star
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nachiketsaraf&show_icons=true&locale=en" alt="nachiketsaraf" /></p>
-</li>
 
 
 ####    My Github Streaks
