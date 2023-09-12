@@ -2,8 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Nachiket Saraf</h1>
 <h3 align="center">A backend developer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-[![](https://visitcount.itsvg.in/api?id=NachiketSaraf&icon=0&color=5)](https://visitcount.itsvg.in)
+
 
 # 💫 About Me:
 🌱 I’m currently learning Java, Data structures, and algorithms, Spring Boot<br>📫 Contact me @ sarafnachiket@gmail.com
