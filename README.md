@@ -33,7 +33,7 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NachiketSaraf&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+align="right" ![](https://github-readme-stats.vercel.app/api?username=NachiketSaraf&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ------
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NachiketSaraf&theme=radical&hide_border=false)<br/>
 ---
