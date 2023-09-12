@@ -32,7 +32,7 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)  
 
-<p align="center">
+<p align="right">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NachiketSaraf&theme=radical&hide_border=false&include_all_commits=false&count_private=false) <br/>
