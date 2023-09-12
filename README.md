@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Nachiket Saraf</h1>
 <h3 align="center">A backend developer from India</h3>
 
+[![](https://visitcount.itsvg.in/api?id=NachiketSaraf&icon=0&color=5)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🌱 I’m currently learning Java, Data structures, and algorithms, Spring Boot<br>📫 Contact me @ sarafnachiket@gmail.com
 
@@ -39,6 +41,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=NachiketSaraf&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NachiketSaraf&icon=0&color=5)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
